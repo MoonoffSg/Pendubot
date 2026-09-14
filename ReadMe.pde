@@ -1,3 +1,4 @@
+НЕ РАБОТАЕТ/ DOESNT WORK
 
 //Изменения.
 // trig, trigF
