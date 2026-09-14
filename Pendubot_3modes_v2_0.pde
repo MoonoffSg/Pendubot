@@ -1,4 +1,5 @@
-import com.reades.mapthing.*; //<>// //<>//
+//test //<>//
+import com.reades.mapthing.*; //<>//
 import net.divbyzero.gpx.*;
 import net.divbyzero.gpx.parser.*;
 
